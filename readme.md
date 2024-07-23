@@ -11,11 +11,9 @@ https://anti-ad.net/easylist.txt
 ```
 ## 规则补充:
 - **黑名单**：
-  - https://raw.githubusercontent.com/mphin/adguardhome_rules/main/Blacklist.txt
-  - https://fastly.jsdelivr.net/gh/mphin/adguardhome_rules@main/Blacklist.txt
+  - https://raw.githubusercontent.com/ydddj/adguardhome_rules/main/Blacklist.txt
 - **白名单**：
-  - https://raw.githubusercontent.com/mphin/adguardhome_rules/main/Allowlist.txt
-  - https://fastly.jsdelivr.net/gh/mphin/adguardhome_rules@main/Allowlist.txt
+  - https://raw.githubusercontent.com/ydddj/adguardhome_rules/main/Allowlist.txt
 
 ## 其他规则（可选）:
 * AdAway  
